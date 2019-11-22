@@ -12,8 +12,8 @@ Project Horus is an application that reads paper and digital receipts with OCR t
 * AWS (Textract)
 * Instabase
 ## Team Members
-* Abhijit Gupta - Yale University
 * Adit Gupta - Yale University
+* Abhijit Gupta - Yale University
 * Mason Mitchell - WPI
 ## Website
 Please visit https://avgupta456.github.io/HackMIT-2019/ for more information about our project
